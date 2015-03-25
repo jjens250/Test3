@@ -1,0 +1,6 @@
+c:\users\programming\documents\visual studio 2013\Projects\Shopping Calculater\Shopping Calculater\bin\Debug\Shopping Calculater.exe.config
+c:\users\programming\documents\visual studio 2013\Projects\Shopping Calculater\Shopping Calculater\bin\Debug\Shopping Calculater.exe
+c:\users\programming\documents\visual studio 2013\Projects\Shopping Calculater\Shopping Calculater\bin\Debug\Shopping Calculater.pdb
+c:\users\programming\documents\visual studio 2013\Projects\Shopping Calculater\Shopping Calculater\obj\Debug\Shopping Calculater.csprojResolveAssemblyReference.cache
+c:\users\programming\documents\visual studio 2013\Projects\Shopping Calculater\Shopping Calculater\obj\Debug\Shopping Calculater.exe
+c:\users\programming\documents\visual studio 2013\Projects\Shopping Calculater\Shopping Calculater\obj\Debug\Shopping Calculater.pdb
