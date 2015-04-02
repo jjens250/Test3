@@ -16,7 +16,7 @@ namespace ConsoleApplication1
             strPrice = Console.ReadLine();
 
             Console.WriteLine("What percentage off do you have?");
-            String strPercentoff;
+            string strPercentoff;
             strPercentoff = Console.ReadLine();
 
             double dblPrice;
@@ -29,7 +29,7 @@ namespace ConsoleApplication1
             double dblPriceTax;
             double dblMinusPercent;
             double dblFinalPrice;
-            Double dblRealPricePercent;
+            double dblRealPricePercent;
 
             dblRealPricePercent = (dblPercent / 100);  //Turning the Percent to decimal.  Example 10 to .10
 
